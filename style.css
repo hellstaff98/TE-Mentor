@@ -27,7 +27,7 @@ body
     cursor: pointer;
     transition: all 0.3s ease;
     text-transform: uppercase;
-    
+
 }
 
 .employee-login-btn:hover {
@@ -36,13 +36,13 @@ body
 }
 
 .employee-login-btn:active {
-    transform: translateY(3px);
+    transform: translateY(5px);
 }
 
 .button-container {
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 20px;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
